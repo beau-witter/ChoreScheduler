@@ -1,0 +1,2368 @@
+[
+  {
+    "ChoreName": "Wash Towels",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Replace Air Purifier Filter",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Quarterly",
+        "Occurrence": 1,
+        "Every": 1,
+        "StartDate": "2024-10-01T00:00:00-07:00",
+        "NextDate": "2024-10-01T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Quarterly",
+        "Occurrence": 1,
+        "Every": 1,
+        "StartDate": "2024-10-01T00:00:00-07:00",
+        "NextDate": "2024-10-01T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Make Bed",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Replace Air Intake Filter",
+    "Locations": [
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 1,
+        "Every": 1,
+        "StartDate": "2024-10-01T00:00:00-07:00",
+        "NextDate": "2024-10-01T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Put Away Dishes",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Smithers",
+    "Locations": [
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean CPAP",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Sink",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Replace Towels",
+    "Locations": [
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Replace Toothbrush Heads",
+    "Locations": [
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Quarterly",
+        "Occurrence": 2,
+        "Every": 1,
+        "StartDate": "2024-10-02T00:00:00-07:00",
+        "NextDate": "2024-10-02T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Wash Hand Rails",
+    "Locations": [
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Water Pick",
+    "Locations": [
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 3,
+        "Every": 1,
+        "StartDate": "2024-10-03T00:00:00-07:00",
+        "NextDate": "2024-10-03T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Dishwasher",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 4,
+        "Every": 1,
+        "StartDate": "2024-10-04T00:00:00-07:00",
+        "NextDate": "2024-10-04T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Disposal",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 5,
+        "Every": 1,
+        "StartDate": "2024-10-05T00:00:00-07:00",
+        "NextDate": "2024-10-05T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Garbage Can",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Fridge",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Garage",
+        "Frequency": "Monthly",
+        "Occurrence": 6,
+        "Every": 1,
+        "StartDate": "2024-10-06T00:00:00-07:00",
+        "NextDate": "2024-10-06T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Wash Curtains",
+    "Locations": [
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 7,
+        "Every": 1,
+        "StartDate": "2024-10-07T00:00:00-07:00",
+        "NextDate": "2024-10-07T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 7,
+        "Every": 1,
+        "StartDate": "2024-10-07T00:00:00-07:00",
+        "NextDate": "2024-10-07T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 7,
+        "Every": 1,
+        "StartDate": "2024-10-07T00:00:00-07:00",
+        "NextDate": "2024-10-07T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Monthly",
+        "Occurrence": 7,
+        "Every": 1,
+        "StartDate": "2024-10-07T00:00:00-07:00",
+        "NextDate": "2024-10-07T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 7,
+        "Every": 1,
+        "StartDate": "2024-10-07T00:00:00-07:00",
+        "NextDate": "2024-10-07T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Stovetop",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Recycle Bin",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Inside Fridge",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 8,
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-10-08T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Garage",
+        "Frequency": "Quarterly",
+        "Occurrence": 8,
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-12-08T00:00:00-08:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Glass Mats",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 2,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Toilet Outside",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 2,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 2,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Friday",
+        "Every": 2,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Wash Mats",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 9,
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 10,
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Air Purifier Filter",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 11,
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Monthly",
+        "Occurrence": 11,
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Dryer Vents",
+    "Locations": [
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Microwave",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Wash Sheets",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Chairs",
+    "Locations": [
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Wash Cabinets",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 12,
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 12,
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 12,
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 12,
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Nightstands",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Shower",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Quarterly",
+        "Occurrence": 13,
+        "Every": 1,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 13,
+        "Every": 1,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 13,
+        "Every": 1,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Bedframe",
+    "Locations": [
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Bathtub",
+    "Locations": [
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Sweep Floor",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Counter",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Decorations",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Sink",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Mirrors",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 1,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Mop Floor",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 2,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 2,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 2,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 2,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-22T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 2,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Coffee Maker",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 15,
+        "Every": 1,
+        "StartDate": "2024-09-15T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Toothbrush Chargers",
+    "Locations": [
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 15,
+        "Every": 1,
+        "StartDate": "2024-09-15T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Ceiling Fan",
+    "Locations": [
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Oven",
+    "Locations": [
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 16,
+        "Every": 1,
+        "StartDate": "2024-09-16T00:00:00-07:00",
+        "NextDate": "2024-09-16T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Bookshelf",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Toilet Inside",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 3,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 3,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 3,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-29T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Wednesday",
+        "Every": 3,
+        "StartDate": "2024-09-11T00:00:00-07:00",
+        "NextDate": "2024-09-11T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Desser",
+    "Locations": [
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Run Dryer",
+    "Locations": [
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Tables or Desks",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Litter Box",
+    "Locations": [
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Garage",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Vacuum Floor",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Friday",
+        "Every": 1,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Weekly",
+        "Occurrence": "Friday",
+        "Every": 1,
+        "StartDate": "2024-09-13T00:00:00-07:00",
+        "NextDate": "2024-09-13T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Under Stairs Storage Area",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Run Washer",
+    "Locations": [
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Bowls",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Blinds",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Take Out Trash",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Monday",
+        "Every": 1,
+        "StartDate": "2024-09-09T00:00:00-07:00",
+        "NextDate": "2024-09-09T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Tuesday",
+        "Every": 1,
+        "StartDate": "2024-09-10T00:00:00-07:00",
+        "NextDate": "2024-09-10T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Weekly",
+        "Occurrence": "Saturday",
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Couch",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 17,
+        "Every": 1,
+        "StartDate": "2024-09-17T00:00:00-07:00",
+        "NextDate": "2024-09-17T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 17,
+        "Every": 1,
+        "StartDate": "2024-09-17T00:00:00-07:00",
+        "NextDate": "2024-09-17T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 17,
+        "Every": 1,
+        "StartDate": "2024-09-17T00:00:00-07:00",
+        "NextDate": "2024-09-17T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Dust Lights",
+    "Locations": [
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Under Stairs Storage Area",
+        "Frequency": "Monthly",
+        "Occurrence": 14,
+        "Every": 1,
+        "StartDate": "2024-09-14T00:00:00-07:00",
+        "NextDate": "2024-09-14T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Door",
+    "Locations": [
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 18,
+        "Every": 1,
+        "StartDate": "2024-09-18T00:00:00-07:00",
+        "NextDate": "2024-09-18T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Weekly",
+        "Occurrence": "Thursday",
+        "Every": 1,
+        "StartDate": "2024-09-12T00:00:00-07:00",
+        "NextDate": "2024-09-12T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Walls",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Under Stairs Storage Area",
+        "Frequency": "Monthly",
+        "Occurrence": 19,
+        "Every": 1,
+        "StartDate": "2024-09-19T00:00:00-07:00",
+        "NextDate": "2024-09-19T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Pick Up / Put Away Anything Out",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Daily"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Daily"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Windows",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 20,
+        "Every": 1,
+        "StartDate": "2024-09-20T00:00:00-07:00",
+        "NextDate": "2024-09-20T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Light Switches",
+    "Locations": [
+      {
+        "LocationName": "Office",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Office Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Hallway",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Lincoln's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Henry's Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Full Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Laundry Room",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bedroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Bathroom",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Master Closet",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Powder Room",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Stairs",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Entryway",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Play Room",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Living Room",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Dining Room",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Kitchen",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Garage",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Under Stairs Storage Area",
+        "Frequency": "Monthly",
+        "Occurrence": 21,
+        "Every": 1,
+        "StartDate": "2024-09-21T00:00:00-07:00",
+        "NextDate": "2024-09-21T00:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "ChoreName": "Clean Out Car",
+    "Locations": [
+      {
+        "LocationName": "Tesla",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      },
+      {
+        "LocationName": "Toyota",
+        "Frequency": "Weekly",
+        "Occurrence": "Sunday",
+        "Every": 1,
+        "StartDate": "2024-09-08T00:00:00-07:00",
+        "NextDate": "2024-09-15T00:00:00-07:00"
+      }
+    ]
+  }
+]
