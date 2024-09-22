@@ -127,10 +127,16 @@ function Get-ChoreTasksForWeek {
         [Parameter(Mandatory = $true)][PSCustomObject[]] $ChoreTasks,
         [Parameter()][DateTime] $CompareDate = (Get-Date)
     )
-
-    $locations = @{label="Locations";expression={, $_.Locations | ForEach-Object { , $_ | Where-Object {($_.NextDate -le $CompareDate.Date.AddDays(7)) -or ($_.Frequency.ToLower() -eq "daily")}}}}
-
-    $ChoreTasks | Select-Object ChoreName, $locations
+    
+    $ChoreTasks | ForEach-Object {
+        [PSCustomObject]@{
+            "ChoreName" = $_.ChoreName
+            "Locations" = $_.Locations | Where-Object {
+                $_.NextDate -le $CompareDate.Date.AddDays(7) -or
+                $_.Frequency.ToLower() -eq "daily"
+            }
+        }
+    }
 }
 
 function Format-ResultsForCSV {
@@ -155,7 +161,7 @@ function Format-ResultsForCSV {
 
     if(-not $Daily.IsPresent)
     {
-        $flatChores = $ChoreTasks | Where-Object { $_.Locations } | Select-Object ChoreName -ExpandProperty Locations | Sort-Object -Property LocationName | Where-Object { $_.Frequency.ToLower() -ne "daily" }
+        $flatChores = $ChoreTasks | Where-Object { $_.Locations } | Select-Object ChoreName -ExpandProperty Locations | Where-Object { $_.Frequency.ToLower() -ne "daily" } | Sort-Object -Property LocationName,ChoreName
 
         # Sunday
         $i = 0
@@ -209,7 +215,7 @@ function Format-ResultsForCSV {
     else
     {
         
-        $flatChores = $ChoreTasks | Where-Object { $_.Locations } | Select-Object ChoreName -ExpandProperty Locations | Sort-Object -Property LocationName  | Where-Object { $_.Frequency.ToLower() -eq "daily" }
+        $flatChores = $ChoreTasks | Where-Object { $_.Locations } | Select-Object ChoreName -ExpandProperty Locations | Where-Object { $_.Frequency.ToLower() -eq "daily" } | Sort-Object -Property LocationName,ChoreName
 
         $i = 0
         $flatChores | ForEach-Object {
@@ -264,8 +270,6 @@ function New-ChoreOutput {
 
     $CompareDate = Get-SundayBasedDate -CompareDate $CompareDate
 
-    Write-Verbose $CompareDate
-    
     $choreTasks = Get-ChoreTasks
     Update-ChoreTaskDates -ChoreTasks $choreTasks -CompareDate $CompareDate
     Set-ChoreTasks -ChoreTasks $choreTasks
